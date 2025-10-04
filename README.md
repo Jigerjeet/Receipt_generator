@@ -77,3 +77,4 @@ Printing fails: Ensure a default printer is configured on Windows; otherwise you
 License expired immediately: If system clock was adjusted backwards, the overlay will appear. Use Activate to extend or reset your trial.
 
 DB locked: If you force-close the app during writes, SQLite may lock. Re-run the app; it uses scoped_session and commits per insert.
+![WhatsApp Image 2025-10-04 at 13 31 24_8486b716](https://github.com/user-attachments/assets/a7c998c1-2323-45df-8cf0-552858b99133)
